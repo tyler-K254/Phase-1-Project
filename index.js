@@ -1,5 +1,5 @@
 
-//Get character from database which are to be posted to (#character-bar span)
+//Get activities from database which are to be posted to (#character-bar span)
 function getCharacternames(){
     fetch('http://localhost:3000/characters')
     .then(res => res.json())
@@ -7,7 +7,7 @@ function getCharacternames(){
     // .then(data => console.log(data))
 }
 
-//Get character from database which are to update DOM Details to be displayed in div
+//Get activities from database which are to update DOM Details to be displayed in div
 function getCharacternamesSecond(){
     fetch('http://localhost:3000/characters')
     .then(res => res.json())
@@ -17,7 +17,7 @@ function getCharacternamesSecond(){
     
 } 
 
-//Call the getCharacter names function an Get data
+//Call the activity names function an Get data
 function initialize(){
    getCharacternames();
 
