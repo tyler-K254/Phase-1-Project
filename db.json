@@ -22,9 +22,9 @@
       },
       {
         "id": 3,
-        "title": "Zipining",
+        "title": "Ziplining",
         "icon": "Images/zipline.jpg",
-        "name": "Zipining",
+        "name": "Ziplining",
         "place1": "The Hub (Karen): Price ksh 1500",
         
         "image": "Images/Screen-Shot-2017-09-06-at-11.36.18-AM.png"
@@ -33,7 +33,7 @@
       {
         "id": 4,
         "title": "Archery",
-        "icon": "/home/tyler/Development/code/phase_1/phase_1_project/Phase-1-Project/Images/archery-vector-graphic_866595588_large.jpg",
+        "icon": "Images/archery-vector-graphic_866595588_large.jpg",
         "name": "Archery",
         "place1": "Nairobi Archery Club (Mamba Village, Langata road): Price ksh 1500",
         "place2": "Kenya Archery Association (Strathmore University, Langata road): Price ksh 600",
